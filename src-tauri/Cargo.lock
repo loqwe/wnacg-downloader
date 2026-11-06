@@ -6038,7 +6038,7 @@ dependencies = [
 
 [[package]]
 name = "wnacg-downloader"
-version = "0.1.0"
+version = "0.5.2"
 dependencies = [
  "anyhow",
  "bytes",
